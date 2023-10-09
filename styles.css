@@ -1,0 +1,31 @@
+* {
+  font-family: monaco, serif, monospace;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: black;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 80px;
+  min-width: 500px;
+}
+
+p {
+  max-width: 1000px;
+}
+
+#timesnewroman {
+  font-family: "Times New Roman", Times, serif;
+}
+
+input {
+  border-color: #ffffff;
+  width: max-content;
+  height: 10px;
+  color: rgb(63, 204, 101);
+  font-size: large;
+}
