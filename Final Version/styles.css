@@ -1,0 +1,53 @@
+/* Global Styles */
+* {
+  font-family: monaco, serif, monospace;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+/*Flex Box Config */
+* {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Header Styles */
+h1 {
+  font-size: 80px;
+  min-width: 500px;
+}
+
+/* Image Styles */
+img {
+  width: 500px;
+  padding-bottom: 20px;
+}
+
+/* Paragraph Styles */
+p {
+  color: black;
+  max-width: 1000px;
+  padding: 10px;
+}
+
+/* Label Styles */
+label {
+  padding: 15px;
+}
+
+/* Input Styles */
+input {
+  border-color: #000;
+  width: max-content;
+  height: 10px;
+  color: rgb(63, 204, 101);
+  font-size: large;
+  padding: 10px;
+}
+
+/* Footer Styles */
+footer {
+  padding-top: 200px;
+}
